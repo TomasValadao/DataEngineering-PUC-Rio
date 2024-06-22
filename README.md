@@ -12,7 +12,7 @@ O objetivo desse projeto é realizar um processo de ponta a ponta que vá desde 
 
 1) Qual o preço médio por ano dos jogos na Steam?
 
-2) Quais são os 5 jogos com mais DLC (Downloadble Content)?
+2) Quais são os 5 jogos com mais DLC (Downloadable Content)?
 
 3) Qual é o jogo com o maior pico de jogadores na Steam?
 
