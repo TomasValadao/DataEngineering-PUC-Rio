@@ -38,4 +38,4 @@ O projeto foi desenvolvido utilizando o software chamada [Databricks](https://ww
 
 ## Conclusão
 
-Ao final desse projeto, foi feita uma análise sobre os dados da base da Steam extraída pelo [Kaggle](https://www.kaggle.com/datasets/artermiloff/steam-games-dataset).. Nele, utilizamos frameworks e conceitos referentes ao processamento paralelizado, tendo em vista a necessidade da criação de um pipeline de dados construído de ponta a ponta (Extração, Transformação e Carga). Para finalizar, fizemos as análises necessárias usando o SparkSQL e conseguimos responder todas as perguntas.
+Ao final desse projeto, foi feita uma análise sobre os dados da base da Steam extraída pelo [Kaggle](https://www.kaggle.com/datasets/artermiloff/steam-games-dataset). Nele, utilizamos frameworks e conceitos referentes ao processamento paralelizado, tendo em vista a necessidade da criação de um pipeline de dados construído de ponta a ponta (Extração, Transformação e Carga). Para finalizar, fizemos as análises necessárias usando o SparkSQL e conseguimos responder todas as perguntas.
