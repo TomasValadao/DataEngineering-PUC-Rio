@@ -34,4 +34,8 @@ O objetivo desse projeto é realizar um processo de ponta a ponta que vá desde 
 
 ## Desenvolvimento
 
+O projeto foi desenvolvido utilizando o software chamada [Databricks](https://www.databricks.com/br). Nela, nós fizemos o uso do [DBFS](https://docs.databricks.com/user-guide/dbfs-databricks-file-system.html) para armazenar os dados extraídos e persisti-los no formato Parquet para que a gente pudesse aplicar o conceito da [Medallion Architecture](https://www.databricks.com/glossary/medallion-architecture).
+
 ## Conclusão
+
+Ao final desse projeto, foi feita uma análise sobre os dados da base da Steam extraída pelo [Kaggle](https://www.kaggle.com/datasets/artermiloff/steam-games-dataset).. Nele, utilizamos frameworks e conceitos referentes ao processamento paralelizado, tendo em vista a necessidade da criação de um pipeline de dados construído de ponta a ponta (Extração, Transformação e Carga). Para finalizar, fizemos as análises necessárias usando o SparkSQL e conseguimos responder todas as perguntas.
