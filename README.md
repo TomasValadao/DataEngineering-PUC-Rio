@@ -8,7 +8,7 @@ Os dados para este projeto foram obtidos a partir da pesquisa "Steam Games Datas
 
 ## Objetivo
 
-O objetivo desse projeto é realizar um processo de ponta a ponta que vá desde a coleta até a análise das informações dos jogos contidos na plataforam Steam. A análise feita terá como objetivo responder as seguintes perguntas:
+O objetivo desse projeto é realizar um processo de ponta a ponta que vá desde a coleta até a análise das informações dos jogos contidos na plataforma Steam. A análise feita terá como objetivo responder as seguintes perguntas:
 
 1) Qual o preço médio por ano dos jogos na Steam?
 
@@ -16,7 +16,7 @@ O objetivo desse projeto é realizar um processo de ponta a ponta que vá desde 
 
 3) Qual é o jogo com o maior pico de jogadores na Steam?
 
-4) Qual ano teve a maior quantidade de lançamento de jogos na Steam?
+4) Qual ano teve a maior quantidade de lançamentos de jogos na Steam?
 
 5) Qual jogo tem o maior número de conquistas?
 
